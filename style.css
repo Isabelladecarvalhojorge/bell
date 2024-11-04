@@ -1,3 +1,17 @@
+body{
+    color: aquamarine;
+    background: blanchedalmond;
+    margin: 0px;
+    font-family: "Itim", cursive;
+    margin-bottom: 18px;
+}
+header{
+    border-bottom: solid 3px bisque; 
+    padding: 20px ;
+    font-size: 32px ;
+    color: aqua;
+}
+
 .chamada{
     background: yellowgreen;
     margin-top: 80px;
