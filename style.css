@@ -19,3 +19,9 @@ header{
     display: flex;
     justify-content: center;
 }
+.chamada.texto{
+    margin-right: 35;
+}
+h1{
+    font-size: 14ps;
+}
